@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="6" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="11" pc="268435479" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="12" pc="268435495" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="13" pc="268435511" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="14" pc="268435537" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="15" pc="268435563" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="16" pc="268435595" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="17" pc="268435616" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="21" pc="268435622" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="22" pc="268435638" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="23" pc="268435654" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="24" pc="268435680" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="25" pc="268435706" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="26" pc="268435738" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppDelegate.mc" lineNum="27" pc="268435759" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="24" pc="268435765" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="25" pc="268435783" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="26" pc="268435815" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="27" pc="268435849" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="28" pc="268435861" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="29" pc="268435871" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="30" pc="268435880" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="31" pc="268435897" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="32" pc="268435919" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="36" pc="268435944" symbol="onCheckConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="37" pc="268435955" symbol="onCheckConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="38" pc="268435965" symbol="onCheckConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="43" pc="268435989" symbol="checkConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="44" pc="268436000" symbol="checkConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="47" pc="268436004" symbol="checkConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="48" pc="268436028" symbol="checkConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="58" pc="268436113" symbol="checkConnect"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="72" pc="268436163" symbol="getInitialView"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="77" pc="268436233" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="78" pc="268436233" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="79" pc="268436244" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="80" pc="268436265" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="81" pc="268436278" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="82" pc="268436285" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="84" pc="268436301" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="85" pc="268436317" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="87" pc="268436321" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="88" pc="268436342" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="89" pc="268436383" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="90" pc="268436396" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="91" pc="268436403" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="93" pc="268436419" symbol="onMail"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="97" pc="268436438" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="98" pc="268436464" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="99" pc="268436490" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="100" pc="268436516" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="101" pc="268436537" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="102" pc="268436547" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="103" pc="268436575" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="105" pc="268436610" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="106" pc="268436619" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="107" pc="268436630" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="108" pc="268436641" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="110" pc="268436690" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="116" pc="268436712" symbol="onImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="117" pc="268436723" symbol="onImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="118" pc="268436744" symbol="onImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="119" pc="268436768" symbol="onImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="121" pc="268436787" symbol="onImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="125" pc="268436799" symbol="onPopout"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="126" pc="268436820" symbol="onPopout"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="146" pc="268436833" symbol="CommNotify"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="147" pc="268436857" symbol="CommNotify"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="148" pc="268436871" symbol="CommNotify"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="152" pc="268436877" symbol="CommImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="153" pc="268436901" symbol="CommImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="154" pc="268436917" symbol="CommImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="162" pc="268436923" symbol="cancel"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="166" pc="268436935" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="167" pc="268436946" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="168" pc="268436975" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="169" pc="268437000" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="170" pc="268437019" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="171" pc="268437036" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="172" pc="268437045" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="175" pc="268437070" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="176" pc="268437083" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="180" pc="268437115" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="181" pc="268437128" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="182" pc="268437147" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="183" pc="268437156" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="184" pc="268437175" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="185" pc="268437188" symbol="onNotifyNum"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="190" pc="268437220" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="191" pc="268437231" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="192" pc="268437244" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="193" pc="268437254" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="196" pc="268437273" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="197" pc="268437286" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="198" pc="268437295" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="199" pc="268437314" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="201" pc="268437333" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="202" pc="268437354" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="203" pc="268437367" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="204" pc="268437388" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="205" pc="268437414" symbol="onImageRecive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="211" pc="268437444" symbol="RequestNotify"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="212" pc="268437454" symbol="RequestNotify"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="222" pc="268437526" symbol="RequestImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="223" pc="268437547" symbol="RequestImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="224" pc="268437557" symbol="RequestImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="225" pc="268437567" symbol="RequestImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="226" pc="268437583" symbol="RequestImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="227" pc="268437596" symbol="RequestImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\NotifyAppApp.mc" lineNum="228" pc="268437617" symbol="RequestImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="13" pc="268437730" symbol="onLayout"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="14" pc="268437755" symbol="onLayout"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="25" pc="268437786" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="26" pc="268437793" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="27" pc="268437800" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="28" pc="268437816" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="29" pc="268437832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="30" pc="268437848" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="31" pc="268437864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="32" pc="268437875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="33" pc="268437911" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="34" pc="268437923" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="35" pc="268437930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="36" pc="268437961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="37" pc="268437992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="39" pc="268438013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="40" pc="268438076" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="43" pc="268438104" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="44" pc="268438140" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="45" pc="268438152" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="46" pc="268438159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="47" pc="268438190" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="48" pc="268438221" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="50" pc="268438242" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="53" pc="268438276" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="54" pc="268438312" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="55" pc="268438324" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="56" pc="268438418" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="57" pc="268438512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="63" pc="268438532" symbol="drawIndicator"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="64" pc="268438548" symbol="drawIndicator"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyView.mc" lineNum="65" pc="268438564" symbol="drawIndicator"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="14" pc="268438657" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="15" pc="268438679" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="16" pc="268438689" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="17" pc="268438698" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="18" pc="268438732" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="19" pc="268438743" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="21" pc="268438787" symbol="initialize"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="24" pc="268438799" symbol="popback"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="28" pc="268438812" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="29" pc="268438833" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="30" pc="268438846" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="31" pc="268438864" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="33" pc="268438876" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="34" pc="268438887" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="35" pc="268438905" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="37" pc="268438917" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="41" pc="268438948" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="42" pc="268438961" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="43" pc="268438972" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="45" pc="268438999" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="46" pc="268439013" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="47" pc="268439024" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="48" pc="268439042" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="49" pc="268439063" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="50" pc="268439076" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="51" pc="268439094" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="54" pc="268439109" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="55" pc="268439150" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="58" pc="268439156" symbol="onKey"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="62" pc="268439183" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="63" pc="268439192" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="64" pc="268439203" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="65" pc="268439228" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="66" pc="268439271" symbol="onReceive"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="70" pc="268439293" symbol="onReceiveImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="71" pc="268439309" symbol="onReceiveImage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="74" pc="268439321" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="75" pc="268439342" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="76" pc="268439355" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="77" pc="268439373" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="79" pc="268439385" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="80" pc="268439396" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="81" pc="268439424" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="82" pc="268439442" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="83" pc="268439455" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="84" pc="268439473" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="86" pc="268439485" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="88" pc="268439491" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="89" pc="268439515" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="90" pc="268439539" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="91" pc="268439571" symbol="onNextPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="95" pc="268439577" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="96" pc="268439598" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="97" pc="268439609" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="98" pc="268439627" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="100" pc="268439639" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="101" pc="268439650" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="102" pc="268439678" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="103" pc="268439696" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="104" pc="268439709" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="105" pc="268439727" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="107" pc="268439739" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="109" pc="268439745" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="110" pc="268439769" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="111" pc="268439793" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="113" pc="268439825" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="116" pc="268439831" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="117" pc="268439852" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="118" pc="268439863" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="119" pc="268439881" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="121" pc="268439893" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="122" pc="268439904" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="123" pc="268439932" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="124" pc="268439950" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="125" pc="268439963" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="126" pc="268439981" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="128" pc="268439993" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\ImageNotifyDelgate.mc" lineNum="130" pc="268439999" symbol="onBack"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="34" pc="268440008" symbol="onShow"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="38" pc="268440052" symbol="onTimer"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="43" pc="268440071" symbol="onHide"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="47" pc="268440092" symbol="onLayout"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="52" pc="268440129" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="53" pc="268440143" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="54" pc="268440162" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="57" pc="268440181" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="58" pc="268440205" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="59" pc="268440239" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="60" pc="268440273" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="62" pc="268440317" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="63" pc="268440345" symbol="drawHand"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="69" pc="268440362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="70" pc="268440362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="71" pc="268440375" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="72" pc="268440392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="73" pc="268440392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="74" pc="268440392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="76" pc="268440392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="77" pc="268440405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="79" pc="268440418" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="80" pc="268440435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="82" pc="268440466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="85" pc="268440542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="86" pc="268440578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="91" pc="268440622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="92" pc="268440658" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="93" pc="268440712" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="94" pc="268440776" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="95" pc="268440846" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="97" pc="268440913" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="102" pc="268440967" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="103" pc="268440998" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="104" pc="268441014" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="105" pc="268441037" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="106" pc="268441089" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="108" pc="268441141" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="109" pc="268441176" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="110" pc="268441228" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="112" pc="268441280" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="113" pc="268441315" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="116" pc="268441367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="117" pc="268441403" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="118" pc="268441436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="119" pc="268441472" symbol="onUpdate"/>
+<entry filename="Rez" lineNum="16" pc="268441508" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268441526" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268441578" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268441633" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268441647" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268441787" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268441802" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268441854" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268441942" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268441994" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="12" object="true" symbol="ImageNotifyView"/>
+<entry field="true" id="18" symbol="outerMinuteHand"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="60" method="true" symbol="onPopout"/>
+<entry id="8389657" symbol="maxHeight"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="28" method="true" symbol="onReceiveImage"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry field="true" id="16" symbol="outerHourHand"/>
+<entry field="true" id="55" symbol="vibrateData"/>
+<entry id="33" object="true" symbol="MainMenu"/>
+<entry field="true" id="54" symbol="connected"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="14" object="true" symbol="Analog"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="47" object="true" symbol="myCom"/>
+<entry id="34" method="true" symbol="MainLayout"/>
+<entry field="true" id="8388705" method="true" symbol="callback"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="13" object="true" symbol="ImageNotifyDelegate"/>
+<entry id="52" method="true" symbol="RequestNotify"/>
+<entry id="46" method="true" symbol="CommImage"/>
+<entry id="8388636" module="true" symbol="Attention"/>
+<entry id="57" method="true" symbol="checkConnect"/>
+<entry field="true" id="15" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="38" symbol="AppName"/>
+<entry id="10" object="true" symbol="NotifyAppApp"/>
+<entry field="true" id="17" symbol="innerHourHand"/>
+<entry id="22" method="true" symbol="drawHand"/>
+<entry id="9" object="true" symbol="NotifyAppDelegate"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="51" method="true" symbol="onImageRecive"/>
+<entry id="11" module="true" symbol="MyNotifyData"/>
+<entry id="62" symbol="item_2"/>
+<entry id="61" symbol="item_1"/>
+<entry id="49" method="true" symbol="cancel"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="32" symbol="LauncherIcon"/>
+<entry id="56" method="true" symbol="onCheckConnect"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389660" symbol="palette"/>
+<entry field="true" id="36" symbol="menu_label_2"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="35" symbol="menu_label_1"/>
+<entry id="44" symbol="paletteTEST"/>
+<entry field="true" id="20" symbol="secondHand"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="24" symbol="popNotify"/>
+<entry field="true" id="31" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="43" symbol="status"/>
+<entry field="true" id="41" symbol="NotifyNum"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="58" method="true" symbol="onMail"/>
+<entry field="true" id="25" symbol="comm"/>
+<entry id="30" module="true" symbol="Layouts"/>
+<entry field="true" id="42" symbol="Index"/>
+<entry field="true" id="37" symbol="prompt"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="40" symbol="bitmap"/>
+<entry field="true" id="19" symbol="innerMinuteHand"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="59" method="true" symbol="onImage"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="29" module="true" symbol="Menus"/>
+<entry field="true" id="48" symbol="id"/>
+<entry id="39" method="true" symbol="drawIndicator"/>
+<entry id="45" method="true" symbol="CommNotify"/>
+<entry id="27" method="true" symbol="onReceive"/>
+<entry id="53" method="true" symbol="RequestImage"/>
+<entry id="50" method="true" symbol="onNotifyNum"/>
+<entry field="true" id="23" symbol="popup"/>
+<entry id="21" method="true" symbol="onTimer"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="26" method="true" symbol="popback"/>
+<entry id="8389661" symbol="maxWidth"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435619" name="view" stackId="3" startPc="268435479"/>
+<entry endPc="268435619" name="index" stackId="2" startPc="268435479"/>
+<entry endPc="268435619" name="size" stackId="1" startPc="268435479"/>
+<entry endPc="268435619" name="delegate" stackId="4" startPc="268435479"/>
+<entry endPc="268435762" name="view" stackId="3" startPc="268435622"/>
+<entry endPc="268435762" name="index" stackId="2" startPc="268435622"/>
+<entry endPc="268435762" name="size" stackId="1" startPc="268435622"/>
+<entry endPc="268435762" name="delegate" stackId="4" startPc="268435622"/>
+<entry endPc="268435941" name="set" stackId="1" startPc="268435765"/>
+<entry endPc="268436435" name="mail" stackId="2" startPc="268436233"/>
+<entry endPc="268436607" name="view" stackId="2" startPc="268436464"/>
+<entry endPc="268436607" name="delegate" stackId="3" startPc="268436464"/>
+<entry endPc="268436874" name="com" stackId="2" startPc="268436833"/>
+<entry endPc="268436920" name="com" stackId="3" startPc="268436877"/>
+<entry endPc="268438529" name="x" stackId="2" startPc="268437786"/>
+<entry endPc="268438529" name="status" stackId="5" startPc="268437786"/>
+<entry endPc="268438529" name="index" stackId="6" startPc="268437786"/>
+<entry endPc="268438529" name="size" stackId="7" startPc="268437786"/>
+<entry endPc="268438529" name="bitmap" stackId="4" startPc="268437786"/>
+<entry endPc="268438529" name="y" stackId="3" startPc="268437786"/>
+<entry endPc="268438651" name="index" stackId="2" startPc="268438532"/>
+<entry endPc="268438651" name="size" stackId="3" startPc="268438532"/>
+<entry endPc="268439180" name="key" stackId="2" startPc="268438948"/>
+<entry endPc="268439287" name="index" stackId="2" startPc="268439203"/>
+<entry endPc="268439574" name="view" stackId="1" startPc="268439321"/>
+<entry endPc="268439574" name="delegate" stackId="2" startPc="268439321"/>
+<entry endPc="268439828" name="view" stackId="1" startPc="268439577"/>
+<entry endPc="268439828" name="delegate" stackId="2" startPc="268439577"/>
+<entry endPc="268440304" name="x" stackId="11" startPc="268440205"/>
+<entry endPc="268440304" name="y" stackId="12" startPc="268440205"/>
+<entry endPc="268440317" name="i" stackId="10" startPc="268440205"/>
+<entry endPc="268440359" name="result" stackId="7" startPc="268440129"/>
+<entry endPc="268440359" name="sin" stackId="9" startPc="268440129"/>
+<entry endPc="268440359" name="cos" stackId="8" startPc="268440129"/>
+<entry endPc="268441505" name="screenWidth" stackId="4" startPc="268440362"/>
+<entry endPc="268441505" name="width" stackId="2" startPc="268440362"/>
+<entry endPc="268441505" name="now" stackId="9" startPc="268440362"/>
+<entry endPc="268441505" name="info" stackId="10" startPc="268440362"/>
+<entry endPc="268441505" name="dateStr" stackId="11" startPc="268440362"/>
+<entry endPc="268441505" name="clockTime" stackId="5" startPc="268440362"/>
+<entry endPc="268441505" name="hour" stackId="6" startPc="268440362"/>
+<entry endPc="268441505" name="min" stackId="7" startPc="268440362"/>
+<entry endPc="268441505" name="sec" stackId="8" startPc="268440362"/>
+<entry endPc="268441505" name="height" stackId="3" startPc="268440362"/>
+<entry endPc="268442021" name="rez_cmp_local_label_6NE40RVIP6_font" stackId="2" startPc="268441633"/>
+<entry endPc="268442021" name="rez_cmp_local_label_6NE40RVIP6" stackId="3" startPc="268441633"/>
+<entry endPc="268442021" name="rez_cmp_local_bitmap_id_monkey" stackId="5" startPc="268441633"/>
+<entry endPc="268442021" name="rez_cmp_local_label_6NE40RVIP6_fontHeight" stackId="4" startPc="268441633"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="NotifyAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="NotifyAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="NotifyAppDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="NotifyAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onCheckConnect" parent="NotifyAppApp">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="checkConnect" parent="NotifyAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="NotifyAppApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="NotifyAppApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="NotifyAppApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onMail" parent="NotifyAppApp">
+<param id="mailIter"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="NotifyAppApp">
+<param id="size"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onImage" parent="NotifyAppApp">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onPopout" parent="NotifyAppApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="CommNotify" parent="MyNotifyData">
+<param id="callback"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="CommImage" parent="MyNotifyData">
+<param id="index"/>
+<param id="callback"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="cancel" parent="myCom">
+<documentation/>
+</functionEntry>
+<functionEntry name="onNotifyNum" parent="myCom">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onImageRecive" parent="myCom">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="myCom">
+<documentation/>
+</functionEntry>
+<functionEntry name="RequestNotify" parent="myCom">
+<param id="cb"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="RequestImage" parent="myCom">
+<param id="index"/>
+<param id="cb"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="ImageNotifyView">
+<param id="f"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="ImageNotifyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="ImageNotifyView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ImageNotifyView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="drawIndicator" parent="ImageNotifyView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="ImageNotifyView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="ImageNotifyDelegate">
+<param id="flag"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="popback" parent="ImageNotifyDelegate">
+<param id="handler"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimer" parent="ImageNotifyDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="ImageNotifyDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceive" parent="ImageNotifyDelegate">
+<param id="size"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onReceiveImage" parent="ImageNotifyDelegate">
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="ImageNotifyDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="ImageNotifyDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onBack" parent="ImageNotifyDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Analog">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onShow" parent="Analog">
+<documentation/>
+</functionEntry>
+<functionEntry name="onTimer" parent="Analog">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="Analog">
+<documentation><![CDATA[<div class="description"> Nothing to do when going away<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="Analog">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHand" parent="Analog">
+<param id="dc"/>
+<param id="angle"/>
+<param id="centerX"/>
+<param id="centerY"/>
+<param id="coords"/>
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="Analog">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Handle the update event<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
