@@ -52,7 +52,7 @@ class Analog extends Ui.View
         var result = new [coords.size()];
         var cos = Math.cos(angle);
         var sin = Math.sin(angle);
-
+		
         // Transform the coordinates
         for (var i = 0; i < coords.size(); i += 1) {
             var x = (coords[i][0] * cos) - (coords[i][1] * sin) + centerX;
@@ -72,6 +72,9 @@ class Analog extends Ui.View
         var hour;
         var min;
 		var sec;
+		var data = Sys.getDeviceSettings();
+		var connect = data.phoneConnected;
+		var num = MyNotifyData.NotifyNum;
 		
         width = dc.getWidth();
         height = dc.getHeight();
@@ -95,6 +98,12 @@ class Analog extends Ui.View
         dc.drawText(0,height/2,Gfx.FONT_NUMBER_MEDIUM,"9",Gfx.TEXT_JUSTIFY_LEFT|Gfx.TEXT_JUSTIFY_VCENTER);
 
         dc.drawText(width/2,(height/4),Gfx.FONT_MEDIUM, dateStr, Gfx.TEXT_JUSTIFY_CENTER);
+        if (connect) {
+	    	dc.drawText(50,(height/2),Gfx.FONT_TINY, "N:" + num.toString(), Gfx.TEXT_JUSTIFY_CENTER|Gfx.TEXT_JUSTIFY_VCENTER);
+	    }
+	    else {
+	    	dc.drawText(50,(height/2),Gfx.FONT_TINY, "N:off", Gfx.TEXT_JUSTIFY_CENTER|Gfx.TEXT_JUSTIFY_VCENTER);
+	    }
         // Draw the hash marks
         //drawHashMarks(dc);
         // Draw the hour. Convert it to minutes and

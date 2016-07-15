@@ -136,10 +136,10 @@ module MyNotifyData {
 	var height;
 	
     hidden var paletteTEST=[
-    	0x000000, 
-     	0x555555,
-    	0xAAAAAA,
-	   	0xFFFFFF
+    	0xFF000000, 
+     	0xFF555555,
+    	0xFFAAAAAA,
+	   	0xFFFFFFFF
     ];	
 
 	function CommNotify(callback) {

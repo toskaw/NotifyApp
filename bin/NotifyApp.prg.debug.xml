@@ -240,129 +240,119 @@
 <entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="72" pc="268440392" symbol="onUpdate"/>
 <entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="73" pc="268440392" symbol="onUpdate"/>
 <entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="74" pc="268440392" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="76" pc="268440392" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="77" pc="268440405" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="79" pc="268440418" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="80" pc="268440435" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="82" pc="268440466" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="85" pc="268440542" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="86" pc="268440578" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="91" pc="268440622" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="92" pc="268440658" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="93" pc="268440712" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="94" pc="268440776" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="95" pc="268440846" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="97" pc="268440913" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="102" pc="268440967" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="103" pc="268440998" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="104" pc="268441014" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="105" pc="268441037" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="106" pc="268441089" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="108" pc="268441141" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="109" pc="268441176" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="110" pc="268441228" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="112" pc="268441280" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="113" pc="268441315" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="116" pc="268441367" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="117" pc="268441403" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="118" pc="268441436" symbol="onUpdate"/>
-<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="119" pc="268441472" symbol="onUpdate"/>
-<entry filename="Rez" lineNum="16" pc="268441508" symbol="initialize"/>
-<entry filename="Rez" lineNum="17" pc="268441526" symbol="initialize"/>
-<entry filename="Rez" lineNum="18" pc="268441578" symbol="initialize"/>
-<entry filename="Rez" lineNum="35" pc="268441633" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="36" pc="268441647" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="37" pc="268441787" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="38" pc="268441802" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="39" pc="268441854" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="40" pc="268441942" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="41" pc="268441994" symbol="MainLayout"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="75" pc="268440392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="76" pc="268440409" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="77" pc="268440419" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="79" pc="268440435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="80" pc="268440448" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="82" pc="268440461" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="83" pc="268440478" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="85" pc="268440509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="88" pc="268440585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="89" pc="268440621" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="94" pc="268440665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="95" pc="268440701" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="96" pc="268440755" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="97" pc="268440819" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="98" pc="268440889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="100" pc="268440956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="101" pc="268441010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="102" pc="268441015" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="105" pc="268441097" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="111" pc="268441164" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="112" pc="268441195" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="113" pc="268441211" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="114" pc="268441234" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="115" pc="268441286" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="117" pc="268441338" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="118" pc="268441373" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="119" pc="268441425" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="121" pc="268441477" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="122" pc="268441512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="125" pc="268441564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="126" pc="268441600" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="127" pc="268441633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\user\\workspace\\NotifyApp\\source\\Analog.mc" lineNum="128" pc="268441669" symbol="onUpdate"/>
+<entry filename="Rez" lineNum="16" pc="268441705" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268441723" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268441775" symbol="initialize"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="12" object="true" symbol="ImageNotifyView"/>
 <entry field="true" id="18" symbol="outerMinuteHand"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry id="8389349" symbol="justification"/>
-<entry id="60" method="true" symbol="onPopout"/>
+<entry id="58" method="true" symbol="onPopout"/>
 <entry id="8389657" symbol="maxHeight"/>
 <entry id="8389097" method="true" symbol="onKey"/>
 <entry id="28" method="true" symbol="onReceiveImage"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8388645" module="true" symbol="Time"/>
 <entry field="true" id="16" symbol="outerHourHand"/>
-<entry field="true" id="55" symbol="vibrateData"/>
-<entry id="33" object="true" symbol="MainMenu"/>
-<entry field="true" id="54" symbol="connected"/>
+<entry field="true" id="53" symbol="vibrateData"/>
+<entry id="32" object="true" symbol="MainMenu"/>
+<entry field="true" id="52" symbol="connected"/>
 <entry id="8388770" module="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="14" object="true" symbol="Analog"/>
 <entry id="8388640" module="true" symbol="Lang"/>
-<entry id="47" object="true" symbol="myCom"/>
-<entry id="34" method="true" symbol="MainLayout"/>
-<entry field="true" id="8388705" method="true" symbol="callback"/>
+<entry id="45" object="true" symbol="myCom"/>
+<entry field="true" id="8388705" symbol="callback"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="13" object="true" symbol="ImageNotifyDelegate"/>
-<entry id="52" method="true" symbol="RequestNotify"/>
-<entry id="46" method="true" symbol="CommImage"/>
+<entry id="50" method="true" symbol="RequestNotify"/>
+<entry id="44" method="true" symbol="CommImage"/>
 <entry id="8388636" module="true" symbol="Attention"/>
-<entry id="57" method="true" symbol="checkConnect"/>
+<entry id="55" method="true" symbol="checkConnect"/>
 <entry field="true" id="15" symbol="timer"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="38" symbol="AppName"/>
+<entry field="true" id="36" symbol="AppName"/>
 <entry id="10" object="true" symbol="NotifyAppApp"/>
 <entry field="true" id="17" symbol="innerHourHand"/>
 <entry id="22" method="true" symbol="drawHand"/>
 <entry id="9" object="true" symbol="NotifyAppDelegate"/>
 <entry id="8389078" method="true" symbol="onNextPage"/>
-<entry id="51" method="true" symbol="onImageRecive"/>
+<entry id="49" method="true" symbol="onImageRecive"/>
 <entry id="11" module="true" symbol="MyNotifyData"/>
-<entry id="62" symbol="item_2"/>
-<entry id="61" symbol="item_1"/>
-<entry id="49" method="true" symbol="cancel"/>
+<entry id="60" symbol="item_2"/>
+<entry id="59" symbol="item_1"/>
+<entry id="47" method="true" symbol="cancel"/>
 <entry id="8388641" module="true" symbol="Math"/>
-<entry field="true" id="32" symbol="LauncherIcon"/>
-<entry id="56" method="true" symbol="onCheckConnect"/>
+<entry field="true" id="31" symbol="LauncherIcon"/>
+<entry id="54" method="true" symbol="onCheckConnect"/>
 <entry id="8388646" module="true" object="true" symbol="Timer"/>
 <entry id="8389660" symbol="palette"/>
-<entry field="true" id="36" symbol="menu_label_2"/>
+<entry field="true" id="34" symbol="menu_label_2"/>
 <entry id="8389081" method="true" symbol="onBack"/>
-<entry field="true" id="35" symbol="menu_label_1"/>
-<entry id="44" symbol="paletteTEST"/>
+<entry field="true" id="33" symbol="menu_label_1"/>
+<entry id="42" symbol="paletteTEST"/>
 <entry field="true" id="20" symbol="secondHand"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="8389065" symbol="locY"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="24" symbol="popNotify"/>
-<entry field="true" id="31" symbol="id_monkey"/>
-<entry id="8389348" symbol="font"/>
-<entry field="true" id="43" symbol="status"/>
-<entry field="true" id="41" symbol="NotifyNum"/>
-<entry id="8389347" symbol="color"/>
+<entry field="true" id="41" symbol="status"/>
+<entry field="true" id="39" symbol="NotifyNum"/>
 <entry field="true" id="8389067" symbol="height"/>
-<entry id="58" method="true" symbol="onMail"/>
+<entry id="56" method="true" symbol="onMail"/>
 <entry field="true" id="25" symbol="comm"/>
 <entry id="30" module="true" symbol="Layouts"/>
-<entry field="true" id="42" symbol="Index"/>
-<entry field="true" id="37" symbol="prompt"/>
+<entry field="true" id="40" symbol="Index"/>
+<entry field="true" id="35" symbol="prompt"/>
 <entry id="8389079" method="true" symbol="onPreviousPage"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="40" symbol="bitmap"/>
+<entry field="true" id="38" symbol="bitmap"/>
 <entry field="true" id="19" symbol="innerMinuteHand"/>
-<entry id="8389345" symbol="rezId"/>
-<entry id="59" method="true" symbol="onImage"/>
-<entry id="8389346" symbol="text"/>
+<entry id="57" method="true" symbol="onImage"/>
 <entry field="true" id="8389066" symbol="width"/>
-<entry field="true" id="8389063" symbol="identifier"/>
 <entry id="29" module="true" symbol="Menus"/>
-<entry field="true" id="48" symbol="id"/>
-<entry id="39" method="true" symbol="drawIndicator"/>
-<entry id="45" method="true" symbol="CommNotify"/>
+<entry field="true" id="46" symbol="id"/>
+<entry id="37" method="true" symbol="drawIndicator"/>
+<entry id="43" method="true" symbol="CommNotify"/>
 <entry id="27" method="true" symbol="onReceive"/>
-<entry id="53" method="true" symbol="RequestImage"/>
-<entry id="50" method="true" symbol="onNotifyNum"/>
+<entry id="51" method="true" symbol="RequestImage"/>
+<entry id="48" method="true" symbol="onNotifyNum"/>
 <entry field="true" id="23" symbol="popup"/>
 <entry id="21" method="true" symbol="onTimer"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
@@ -404,20 +394,19 @@
 <entry endPc="268440359" name="result" stackId="7" startPc="268440129"/>
 <entry endPc="268440359" name="sin" stackId="9" startPc="268440129"/>
 <entry endPc="268440359" name="cos" stackId="8" startPc="268440129"/>
-<entry endPc="268441505" name="screenWidth" stackId="4" startPc="268440362"/>
-<entry endPc="268441505" name="width" stackId="2" startPc="268440362"/>
-<entry endPc="268441505" name="now" stackId="9" startPc="268440362"/>
-<entry endPc="268441505" name="info" stackId="10" startPc="268440362"/>
-<entry endPc="268441505" name="dateStr" stackId="11" startPc="268440362"/>
-<entry endPc="268441505" name="clockTime" stackId="5" startPc="268440362"/>
-<entry endPc="268441505" name="hour" stackId="6" startPc="268440362"/>
-<entry endPc="268441505" name="min" stackId="7" startPc="268440362"/>
-<entry endPc="268441505" name="sec" stackId="8" startPc="268440362"/>
-<entry endPc="268441505" name="height" stackId="3" startPc="268440362"/>
-<entry endPc="268442021" name="rez_cmp_local_label_6NE40RVIP6_font" stackId="2" startPc="268441633"/>
-<entry endPc="268442021" name="rez_cmp_local_label_6NE40RVIP6" stackId="3" startPc="268441633"/>
-<entry endPc="268442021" name="rez_cmp_local_bitmap_id_monkey" stackId="5" startPc="268441633"/>
-<entry endPc="268442021" name="rez_cmp_local_label_6NE40RVIP6_fontHeight" stackId="4" startPc="268441633"/>
+<entry endPc="268441702" name="screenWidth" stackId="4" startPc="268440362"/>
+<entry endPc="268441702" name="now" stackId="12" startPc="268440362"/>
+<entry endPc="268441702" name="width" stackId="2" startPc="268440362"/>
+<entry endPc="268441702" name="info" stackId="13" startPc="268440362"/>
+<entry endPc="268441702" name="dateStr" stackId="14" startPc="268440362"/>
+<entry endPc="268441702" name="clockTime" stackId="5" startPc="268440362"/>
+<entry endPc="268441702" name="hour" stackId="6" startPc="268440362"/>
+<entry endPc="268441702" name="min" stackId="7" startPc="268440362"/>
+<entry endPc="268441702" name="data" stackId="9" startPc="268440362"/>
+<entry endPc="268441702" name="num" stackId="11" startPc="268440362"/>
+<entry endPc="268441702" name="sec" stackId="8" startPc="268440362"/>
+<entry endPc="268441702" name="height" stackId="3" startPc="268440362"/>
+<entry endPc="268441702" name="connect" stackId="10" startPc="268440362"/>
 </localVars>
 <annotations/>
 <functions>
@@ -584,10 +573,6 @@
 </functionEntry>
 <functionEntry name="initialize" parent="MainMenu">
 <documentation/>
-</functionEntry>
-<functionEntry name="MainLayout" parent="Layouts">
-<param id="dc"/>
-<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
 </functionEntry>
 </functions>
 </debugInfo>
