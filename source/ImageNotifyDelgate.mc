@@ -63,8 +63,8 @@ class ImageNotifyDelegate extends Ui.BehaviorDelegate
         if (size > 0) {
         	var index = (MyNotifyData.Index + 1) % size;
         	comm = MyNotifyData.CommImage(index, method(:onReceiveImage));
-        	Ui.requestUpdate();
         }
+        Ui.requestUpdate();
     }
     function onReceiveImage(data) {
     	Ui.requestUpdate();

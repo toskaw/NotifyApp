@@ -134,6 +134,8 @@ module MyNotifyData {
 	var status = -1;
 	var width;
 	var height;
+	hidden var save_mode = false;
+	hidden var count;
 	
     hidden var paletteTEST=[
     	0xFF000000, 
@@ -142,6 +144,28 @@ module MyNotifyData {
 	   	0xFFFFFFFF
     ];	
 
+	function SaveMode() {
+		if (!App.getApp().getProperty("save_mode")) {
+			return false;
+		}
+		return save_mode; 
+	}
+	
+	function CountUp() {
+		if (!App.getApp().getProperty("save_mode")) {
+			return;
+		}
+		count += 1;
+		if (count > 600) {
+			save_mode = true;
+			count = 600;
+		}
+	}
+	
+	function ResetCount() {
+		count = 0;
+		save_mode = false;
+	}
 	function CommNotify(callback) {
 		var com = new myCom();
 		com.RequestNotify(callback);

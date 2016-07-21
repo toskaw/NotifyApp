@@ -31,11 +31,13 @@ class Analog extends Ui.View
 
 	function onShow()
     {
-    	timer.start( method(:onTimer), 1000, true );
+    	timer.start( method(:onTimer), 1000, false );
+     	MyNotifyData.ResetCount();
     }
 	function onTimer()
 	{
 		Ui.requestUpdate();
+		MyNotifyData.CountUp();
 	}
     //! Nothing to do when going away
     function onHide()
@@ -117,16 +119,24 @@ class Analog extends Ui.View
         min = ( clockTime.min / 60.0) * Math.PI * 2;
         drawHand(dc, min, width/2, height/2, outerMinuteHand, Gfx.COLOR_DK_GRAY);
         drawHand(dc, min, width/2, height/2, innerMinuteHand, Gfx.COLOR_WHITE);
-        // Draw the second
-        sec = ( clockTime.sec / 60.0) * Math.PI * 2;
-        drawHand(dc, sec, width/2, height/2, secondHand, Gfx.COLOR_WHITE);
         
+        if (!MyNotifyData.SaveMode()) {
+        	// Draw the second
+        	sec = ( clockTime.sec / 60.0) * Math.PI * 2;
+        	drawHand(dc, sec, width/2, height/2, secondHand, Gfx.COLOR_WHITE);
+        }
         // Draw the inner circle
         dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_BLACK);
         dc.fillCircle(width/2, height/2, 7);
         dc.setColor(Gfx.COLOR_BLACK,Gfx.COLOR_BLACK);
         dc.drawCircle(width/2, height/2, 7);
-
+        timer.stop();
+		if (!MyNotifyData.SaveMode()) {
+			timer.start( method(:onTimer), 1000, false );
+		}
+		else {
+			timer.start( method(:onTimer), 60000, false );
+		}
     }
 }
 

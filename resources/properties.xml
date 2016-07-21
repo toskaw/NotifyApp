@@ -1,0 +1,16 @@
+<resources>
+
+    <properties>
+        <property id="save_mode" type="boolean">false</property>
+    </properties>
+
+    <strings>
+       <string id="save_mode_title">Power Saving</string>
+    </strings>
+
+    <settings>
+        <setting propertyKey="save_mode" title="save_mode_title">
+            <settingConfig type="boolean" />
+        </setting>
+    </settings>
+</resources>
