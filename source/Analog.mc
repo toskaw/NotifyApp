@@ -26,7 +26,8 @@ class Analog extends Ui.View
 	var secondHand = [ [-1,-6], [-1,-90], [0,-100], [1,-90], [1,-6] ];
     //! Constructor
     function initialize()
-    {
+    { 
+    	Ui.View.initialize();
     }
 
 	function onShow()

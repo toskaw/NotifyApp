@@ -1,6 +1,6 @@
 using Toybox.Application as App;
 using Toybox.WatchUi as Ui;
-using Toybox.Communications as Comm;
+using Toybox.Communications as Com;
 using Toybox.Timer as Timer;
 using Toybox.System as Sys;
 using Toybox.Attention as Attention;
@@ -10,6 +10,8 @@ class NotifyAppApp extends App.AppBase {
 	var timer;
 	var popup;
 	var comm;
+	var mailMethod;
+	var phoneMethod;
 	var vibrateData = [
     	new Attention.VibeProfile(  25, 50 ),
         new Attention.VibeProfile(  50, 50 ),
@@ -22,7 +24,15 @@ class NotifyAppApp extends App.AppBase {
 	
     function initialize() {
         AppBase.initialize();
-        Comm.setMailboxListener( method(:onMail) );
+        mailMethod = method(:onMail);
+        phoneMethod = method(:onPhone);
+        if(Com has :registerForPhoneAppMessages) {
+            Com.registerForPhoneAppMessages(phoneMethod);
+        } else {
+            Com.setMailboxListener(mailMethod);
+        }
+        
+        Com.setMailboxListener( method(:onMail) );
         timer = new Timer.Timer();
         checkConnect();
         popup = false;
@@ -45,11 +55,11 @@ class NotifyAppApp extends App.AppBase {
 		}
 		
 	    if (Sys.getDeviceSettings().phoneConnected) {
-    		Comm.makeJsonRequest(
+    		Com.makeJsonRequest(
 				"http://127.0.0.1:8080/",
 				{"regist" => "19A65F9191F0471E8AF86C0E1B93D68A"},
 				{
-            		"Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED
+            		"Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
             	},
             	method(:onCheckConnect)
         	);	
@@ -60,11 +70,11 @@ class NotifyAppApp extends App.AppBase {
 	}
 	
     //! onStart() is called on application start up
-    function onStart() {
+    function onStart(state) {
     }
 
     //! onStop() is called when your application is exiting
-    function onStop() {
+    function onStop(state) {
     }
 
     //! Return the initial view of your application here
@@ -75,23 +85,30 @@ class NotifyAppApp extends App.AppBase {
     function onMail(mailIter)
     {
     	var mail;
-    	if (comm) {
-    		Sys.println("busy");
-    		mail = mailIter.next();
-    		while(mail != null) {
-    			mail = mailIter.next();
-    		}
-    		Comm.emptyMailbox();
-    		return;
-    	}
-     	Sys.println("onMail");
-    	comm = MyNotifyData.CommNotify(method(:onReceive));
-    	mail = mailIter.next();
+    	Sys.println("onMail");
+      	mail = mailIter.next();
     	while (mail != null) {
         	mail = mailIter.next();
         }
-        Comm.emptyMailbox();
+        if(Com has :emptyMailbox) {
+       		//Com.emptyMailbox();
+       	}
+    	if (comm != null) {
+    		Sys.println("busy");
+     		return;
+    	}
+    	comm = MyNotifyData.CommNotify(method(:onReceive));
     }
+    function onPhone(msg) {
+        var i;
+		Sys.println("onPhone");
+     	if (comm != null) {
+    		Sys.println("busy");
+     		return;
+    	}
+    	comm = MyNotifyData.CommNotify(method(:onReceive));
+    }
+
     
     function onReceive(size) {
        if (size > 0 && !popup) {
@@ -168,6 +185,7 @@ module MyNotifyData {
 	}
 	function CommNotify(callback) {
 		var com = new myCom();
+     	Sys.println("com create");
 		com.RequestNotify(callback);
 		return com;
 	}
@@ -232,12 +250,13 @@ module MyNotifyData {
 		function initialize() {
 		}
 		function RequestNotify(cb) {
+     		Sys.println("request");
 			callback = cb;
-    		Comm.makeJsonRequest(
+    		Com.makeWebRequest(
 				"http://127.0.0.1:8080/",
 				{},
 				{
-            		"Content-Type" => Comm.REQUEST_CONTENT_TYPE_URL_ENCODED
+            		"Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
             	},
             	method(:onNotifyNum)
         	);
@@ -249,7 +268,7 @@ module MyNotifyData {
 			Index = id;
 			status = 0;
            	Sys.println("ReqImage 2");
-        	Comm.makeImageRequest(
+        	Com.makeImageRequest(
             	"http://127.0.0.1:8080/",
 				{"id" => index},
 				{

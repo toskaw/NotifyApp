@@ -7,6 +7,7 @@ using Toybox.Attention as Attention;
 class ImageNotifyView extends Ui.View {
 	   
     function initialize(f) {
+    	View.initialize();
     }
     //! Load your resources here
     function onLayout(dc) {
