@@ -37,25 +37,20 @@ class ImageNotifyDelegate extends Ui.BehaviorDelegate
     	Ui.popView(Ui.SLIDE_IMMEDIATE); 
 	}
 	
-    function onKey(evt) {
-        var key = evt.getKey();
+    function onSelect() {
         if (comm) {
-       		return Ui.BehaviorDelegate.onKey(evt); 
+       		return Ui.BehaviorDelegate.onSelect(); 
         }
- 		if ( key == KEY_ENTER ) {
- 			if (popup) {
- 				timer.stop();
- 				Sys.println("Notify:onKey popout");
-				if (popNotify != null) {
-					popNotify.invoke();
-					popNotify = null;
-				}
- 			}
- 			comm = MyNotifyData.CommNotify(method(:onReceive));
- 			return true;
+ 		if (popup) {
+ 			timer.stop();
+ 			Sys.println("Notify:onKey popout");
+			if (popNotify != null) {
+				popNotify.invoke();
+				popNotify = null;
+			}
  		}
- 	
-        return Ui.BehaviorDelegate.onKey(evt); 
+ 		comm = MyNotifyData.CommNotify(method(:onReceive));
+ 		return true;
     }
     
     function onReceive(size) {

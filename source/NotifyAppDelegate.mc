@@ -26,14 +26,10 @@ class NotifyAppDelegate extends Ui.BehaviorDelegate {
   		Sys.println("Analog:onPreviousPage"); 
         return true;
     }
-    function onKey(evt) {
-        var key = evt.getKey();
- 		if ( key == KEY_ENTER ) {
-  			MyNotifyData.ResetCount();
- 			Ui.requestUpdate();
- 			return true;
- 		} 	
-        return Ui.BehaviorDelegate.onKey(evt); 
+    function onSelect() {
+  		MyNotifyData.ResetCount();
+ 		Ui.requestUpdate();
+ 		return true;
     }
 
 

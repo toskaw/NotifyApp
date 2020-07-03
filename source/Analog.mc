@@ -62,7 +62,7 @@ class Analog extends Ui.View
             var y = (coords[i][0] * sin) + (coords[i][1] * cos) + centerY;
             result[i] = [x, y];
         }
-        dc.setColor(color, Gfx.COLOR_TRANSPARENT, color);
+        dc.setColor(color, Gfx.COLOR_TRANSPARENT);
         dc.fillPolygon(result);
     }
  

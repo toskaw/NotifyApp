@@ -55,11 +55,14 @@ class NotifyAppApp extends App.AppBase {
 		}
 		
 	    if (Sys.getDeviceSettings().phoneConnected) {
-    		Com.makeJsonRequest(
+    		Com.makeWebRequest(
 				"http://127.0.0.1:8080/",
 				{"regist" => "19A65F9191F0471E8AF86C0E1B93D68A"},
 				{
-            		"Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
+					:headers =>{
+            			"Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
+            		},
+            		:responseType => Communications.HTTP_RESPONSE_CONTENT_TYPE_JSON
             	},
             	method(:onCheckConnect)
         	);	
@@ -151,10 +154,10 @@ module MyNotifyData {
 	var status = -1;
 	var width;
 	var height;
-	hidden var save_mode = false;
-	hidden var count;
+	var save_mode = false;
+    var count;
 	
-    hidden var paletteTEST=[
+    var paletteTEST=[
     	0xFF000000, 
      	0xFF555555,
     	0xFFAAAAAA,
@@ -256,7 +259,7 @@ module MyNotifyData {
 				"http://127.0.0.1:8080/",
 				{},
 				{
-            		"Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED
+            		:headers => { "Content-Type" => Com.REQUEST_CONTENT_TYPE_URL_ENCODED }
             	},
             	method(:onNotifyNum)
         	);
